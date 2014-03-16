@@ -17,7 +17,7 @@ development:
 test:
   adapter: postgresql
   encoding: unicode
-  database: sample_appsl
+  database: sample_appsl_test
   pool: 5
   username: postgres
   password: 1qaz!QAZ
