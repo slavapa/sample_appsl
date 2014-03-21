@@ -80,19 +80,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="production.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="production.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="79" column="2" selection-start="3253" selection-end="3253" vertical-scroll-proportion="0.72695035" vertical-offset="1328" max-vertical-offset="1980">
+            <state line="79" column="0" selection-start="3251" selection-end="3251" vertical-scroll-proportion="0.0" vertical-offset="1328" max-vertical-offset="1980">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.html.erb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="application.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="11" selection-start="507" selection-end="507" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="594">
+            <state line="15" column="11" selection-start="507" selection-end="507" vertical-scroll-proportion="0.51648355" vertical-offset="48" max-vertical-offset="594">
               <folding />
             </state>
           </provider>
@@ -947,13 +947,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="11" selection-start="507" selection-end="507" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="594">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="52" selection-start="291" selection-end="291" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="748">
@@ -963,7 +956,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="2" selection-start="3253" selection-end="3253" vertical-scroll-proportion="0.72695035" vertical-offset="1328" max-vertical-offset="1980">
+        <state line="79" column="0" selection-start="3251" selection-end="3251" vertical-scroll-proportion="0.0" vertical-offset="1328" max-vertical-offset="1980">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="11" selection-start="507" selection-end="507" vertical-scroll-proportion="0.51648355" vertical-offset="48" max-vertical-offset="594">
           <folding />
         </state>
       </provider>
